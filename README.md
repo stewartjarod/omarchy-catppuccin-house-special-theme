@@ -13,6 +13,10 @@ A dark, dimmed Catppuccin Mocha theme for [Omarchy](https://omarchy.org), tuned 
 - **btop** with dimmed graph colors and a visible selected-process row.
 - **Six wallpapers** around the Omarchy logo: a misty mauve doorway, an Arch Linux portal, tiled windows, an omakase torii gate, a digital logo, and the classic pixel logo.
 
+## Colors
+
+![Catppuccin House Special colors](docs/palette.png)
+
 ## Install
 
 ```bash
