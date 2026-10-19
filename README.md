@@ -1,8 +1,8 @@
-# Catppuccin House Special
+# House Special Dark
 
-A dark, dimmed Catppuccin Mocha theme for [Omarchy](https://omarchy.org), tuned for long terminal sessions at night.
+A dark, dimmed Catppuccin Mocha theme for [Omarchy](https://omarchy.org), tuned for long terminal sessions at night. Its daytime sibling is [House Special Light](https://github.com/stewartjarod/omarchy-house-special-light-theme).
 
-![Catppuccin House Special](backgrounds/5-digital-logo.jpg)
+![House Special Dark](backgrounds/5-digital-logo.jpg)
 
 ## What makes it special
 
@@ -15,12 +15,12 @@ A dark, dimmed Catppuccin Mocha theme for [Omarchy](https://omarchy.org), tuned 
 
 ## Colors
 
-![Catppuccin House Special colors](docs/palette.png)
+![House Special Dark colors](docs/palette.png)
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/stewartjarod/omarchy-catppuccin-house-special-theme
+omarchy theme install https://github.com/stewartjarod/omarchy-house-special-dark-theme
 ```
 
 ## Credits
