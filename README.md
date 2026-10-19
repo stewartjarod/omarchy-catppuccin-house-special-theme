@@ -2,7 +2,7 @@
 
 A dark, dimmed Catppuccin Mocha theme for [Omarchy](https://omarchy.org), tuned for long terminal sessions at night.
 
-![Catppuccin House Special](preview.png)
+![Catppuccin House Special](backgrounds/5-digital-logo.jpg)
 
 ## What makes it special
 
